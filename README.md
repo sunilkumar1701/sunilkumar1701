@@ -1,5 +1,6 @@
 ## Hi there 👋 It's me Sunil Kumar P
 
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=sunilkumar1701&icon=3&color=1" alt="sunilkumar1701" /> </p>
 Junior **Web Developer**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -24,7 +25,8 @@ Junior **Web Developer**
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Sunil Kumars's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumar1701&theme=dark&show_icons=true&&hide=issues,contribs)
+<h3 align="left">GitHub Stats:</h3>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkumar1701&show_icons=true&locale=en&layout=compact&bg_color=101010&text_color=FFFFFF&border=1&border_color=FFFFFF33&icon_color=FFFFFF&title_color=FFFFFF" alt="sunilkumar1701" /></p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sunil_kumar_p17?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/u/sunil_kumar_p17/)
 
