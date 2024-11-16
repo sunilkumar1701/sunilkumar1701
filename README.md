@@ -26,8 +26,17 @@ Junior **Web Developer**
 <img height="30" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkumar1701&show_icons=true&locale=en&layout=compact&bg_color=101010&text_color=FFFFFF&border=1&border_color=FFFFFF33&icon_color=FFFFFF&title_color=FFFFFF" alt="sunilkumar1701" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1; text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkumar1701&show_icons=true&locale=en&layout=compact&bg_color=101010&text_color=FFFFFF&border=1&border_color=FFFFFF33&icon_color=FFFFFF&title_color=FFFFFF" alt="sunilkumar1701" />
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <a href="https://leetcode.com/u/sunil_kumar_p17/">
+            <img src="https://leetcard.jacoblin.cool/sunil_kumar_p17?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats">
+        </a>
+    </div>
+</div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sunil_kumar_p17?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/u/sunil_kumar_p17/)
+
 
 [![Sunil Kumars's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilkumar1701&bg_color=000000&color=ffffff&line=56f070&point=ffffff&area=true&hide_border=true)](https://github.com/sunilkumar1701)
