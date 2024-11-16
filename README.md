@@ -8,7 +8,7 @@ Junior Web Developer
 - 🤔 I’m looking for help with Placements in MNC'S
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sunil-kumar-p17)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sunil-kumar-p17/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Gaming.
 
