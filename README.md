@@ -3,13 +3,9 @@
 Junior Web Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Find my completed projects in my [portfolio](https://sunilkumar1701.github.io/portfolio-2/)                                                 
-- 🌱 I’m currently learning DSA,APPTITUDE
+- 🌱 Engaged in my studies at [PSNA](https://www.psnacet.edu.in/)
 - 👯 I’m looking to collaborate on Web development (Low code & Code based)
-- 🤔 I’m looking for help with Placements in MNC'S
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sunil-kumar-p17/)
-- 😄 Pronouns: Techie
+- 📫 How to reach me : [<img src="https://img.icons8.com/fluency/48/linkedin.png" />](https://www.linkedin.com/in/sunil-kumar-p17/)
 - ⚡ Fun fact: I know Gaming.
 
 ### I code in
