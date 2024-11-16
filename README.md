@@ -5,11 +5,11 @@ Junior Web Developer
 - 🔭 Find my completed projects in my [portfolio](https://sunilkumar1701.github.io/portfolio-2/)
                                                   
 - 📚 Engaged in my studies at [PSNA](https://www.psnacet.edu.in/)
-- 
+  
 - 👨‍💻 I’m looking to collaborate on Web development (Low code & Code based)
-- 
+  
 - 📧 How to reach me : sunilprakash1701@gmail.com
-- 
+  
 - 📄 Snapshot of my journey
 
 ### I code in
