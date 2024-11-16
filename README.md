@@ -2,10 +2,14 @@
 
 Junior Web Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Find my completed projects in my [portfolio](https://sunilkumar1701.github.io/portfolio-2/)                                                 
+- 🔭 Find my completed projects in my [portfolio](https://sunilkumar1701.github.io/portfolio-2/)
+-                                                 
 - 📚 Engaged in my studies at [PSNA](https://www.psnacet.edu.in/)
+- 
 - 👨‍💻 I’m looking to collaborate on Web development (Low code & Code based)
+- 
 - 📧 How to reach me : sunilprakash1701@gmail.com
+- 
 - 📄 Snapshot of my journey
 
 ### I code in
