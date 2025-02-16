@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sunil Kumar P
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=sunilkumar1701&icon=3&color=1" alt="sunilkumar1701" /> </p>
+<p align="left"> <img src="![Visitor Count](https://profile-counter.glitch.me/sunilkumar1701/count.svg)" alt="sunilkumar1701" /> </p>
 Junior **Web Developer**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
