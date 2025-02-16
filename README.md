@@ -1,7 +1,9 @@
 ## Hi there 👋 It's me Sunil Kumar P
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=sunilkumar1701)" alt="sunilkumar1701" /> </p>
-![Profile Views](https://komarev.com/ghpvc/?username=sunilkumar1701&color=green)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sunilkumar1701&color=green" alt="Profile Views" />
+</p>
+
 Junior **Web Developer**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
