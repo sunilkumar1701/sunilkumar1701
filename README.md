@@ -15,7 +15,7 @@ Junior **Web Developer**
   
 - 📧 How to reach me : sunilprakash1701@gmail.com
   
-- 📄 Snapshot of my journey [Resume](https://drive.google.com/file/d/1A-bjiIGNYpYq7L20mbhdOrTw4Ss1uBxh/view?usp=drive_link)
+- 📄 Snapshot of my journey [Resume](https://drive.google.com/file/d/1Swc7uWnLR5hiUtYn7qlIAT6bW-fx1xny/view?usp=drive_link)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
