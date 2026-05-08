@@ -74,40 +74,7 @@ MERN Stack Developer  ·  Java + DSA  ·  Open to Internships
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="35%" align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=sunilkumar1701&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" 
-  alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="65%" align="center">
-
-<a href="https://leetcode.com/u/sunil_kumar_p17/">
-  <img 
-    src="https://leetcard.jacoblin.cool/sunil_kumar_p17?theme=dark&font=Poppins&ext=heatmap&border=0&radius=20" 
-    width="100%"
-    alt="LeetCode Stats"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 ### 📊 GitHub Stats
 
