@@ -19,7 +19,7 @@ MERN Stack Developer  ·  Java + DSA  ·  Open to Internships
 
 - 🌐 Check out my portfolio → **[sunilkumar1701.github.io/portfolio-2](https://sunilkumar1701.github.io/portfolio-2/)**
 - 🎓 B.Tech IT @ **[PSNA College of Engineering](https://www.psnacet.edu.in/)** · CGPA: **8.13**
-- 🤝 Open to collaborate on **Web Develpopment (Low code & Code based)**
+- 🤝 Open to collaborate on **Web Development (Low code & Code based)**
 - 🏆 **247+ LeetCode problems** solved · Smart India Hackathon **Finalist (2023 & 2024)**
 - 📧 Reach me at → [sunilprakash1701@gmail.com](mailto:sunilprakash1701@gmail.com)
 - 📄 My resume → **[View Here](https://drive.google.com/file/d/1kH_fct8Yfi_VOIVFOIC7KWuMhDsSnxGw/view?usp=sharing)**
@@ -30,37 +30,85 @@ MERN Stack Developer  ·  Java + DSA  ·  Open to Internships
 
 ### ⚡ Tech Stack
 
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 #### 🚀 MERN Stack
 
 <p align="left">
-  <img height="45" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=15" />
+  <img height="50" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
 #### ☕ Java & DSA
 
 <p align="left">
-  <img height="45" src="https://skillicons.dev/icons?i=java&perline=15" />
+  <img height="50" src="https://skillicons.dev/icons?i=java" />
 </p>
+
+</td>
+
+<td width="50%" valign="top">
 
 #### 🎨 Frontend Development
 
 <p align="left">
-  <img height="45" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=15" />
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
-#### 🗄️ Database
+#### 🗄️ Database & Tools
 
 <p align="left">
-  <img height="45" src="https://skillicons.dev/icons?i=mongodb,mysql&perline=15" />
+  <img height="50" src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,git,figma,postman" />
 </p>
 
-#### 🛠️ Tools & IDEs
+</td>
 
-<p align="left">
-  <img height="45" src="https://skillicons.dev/icons?i=vscode,idea,git,figma,postman&perline=15" />
-</p>
+</tr>
+</table>
+
+</div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="35%" align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=sunilkumar1701&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" 
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="65%" align="center">
+
+<a href="https://leetcode.com/u/sunil_kumar_p17/">
+  <img 
+    src="https://leetcard.jacoblin.cool/sunil_kumar_p17?theme=dark&font=Poppins&ext=heatmap&border=0&radius=20" 
+    width="100%"
+    alt="LeetCode Stats"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -82,7 +130,7 @@ MERN Stack Developer  ·  Java + DSA  ·  Open to Internships
 <a href="https://leetcode.com/u/sunil_kumar_p17/">
   <img 
     src="https://leetcard.jacoblin.cool/sunil_kumar_p17?theme=dark&font=Poppins&ext=heatmap&border=0&radius=20" 
-    alt="LeetCodes Stats"
+    alt="LeetCode Stats"
   />
 </a>
 
